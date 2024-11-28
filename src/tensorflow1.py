@@ -12,7 +12,6 @@ import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior()
 import datetime
 import pickle
-from sklearn.cluster import KMeans
 
 
 def stf(A_t, C_t, K=10, steps=1000, learning_rate=0.001, beta=0.001, lambda1=0.005,

@@ -1,3 +1,0 @@
-subreddit_labels.csv filter=lfs diff=lfs merge=lfs -text
-id2user.json filter=lfs diff=lfs merge=lfs -text
-id2word.json filter=lfs diff=lfs merge=lfs -text
